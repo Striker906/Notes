@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="daily_notes">Daily Notes</string>
+    <string name="tv_overview_get_started">Take notes, reminders, set targets, collect resources, and secure privacy</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password</string>
+    <string name="password_tv">Password</string>
+    <string name="sign_up_questions">Don\'t have an account? Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+</resources>
